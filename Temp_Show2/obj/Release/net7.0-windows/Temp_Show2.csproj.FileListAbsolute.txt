@@ -1,0 +1,17 @@
+G:\My_Project\Temp_Show\Temp_Show2\bin\Release\net7.0-windows\Temp_Show2.exe
+G:\My_Project\Temp_Show\Temp_Show2\bin\Release\net7.0-windows\Temp_Show2.deps.json
+G:\My_Project\Temp_Show\Temp_Show2\bin\Release\net7.0-windows\Temp_Show2.runtimeconfig.json
+G:\My_Project\Temp_Show\Temp_Show2\bin\Release\net7.0-windows\Temp_Show2.dll
+G:\My_Project\Temp_Show\Temp_Show2\bin\Release\net7.0-windows\Temp_Show2.pdb
+G:\My_Project\Temp_Show\Temp_Show2\obj\Release\net7.0-windows\Temp_Show2.csproj.AssemblyReference.cache
+G:\My_Project\Temp_Show\Temp_Show2\obj\Release\net7.0-windows\Temp_Show2.Form1.resources
+G:\My_Project\Temp_Show\Temp_Show2\obj\Release\net7.0-windows\Temp_Show2.csproj.GenerateResource.cache
+G:\My_Project\Temp_Show\Temp_Show2\obj\Release\net7.0-windows\Temp_Show2.GeneratedMSBuildEditorConfig.editorconfig
+G:\My_Project\Temp_Show\Temp_Show2\obj\Release\net7.0-windows\Temp_Show2.AssemblyInfoInputs.cache
+G:\My_Project\Temp_Show\Temp_Show2\obj\Release\net7.0-windows\Temp_Show2.AssemblyInfo.cs
+G:\My_Project\Temp_Show\Temp_Show2\obj\Release\net7.0-windows\Temp_Show2.csproj.CoreCompileInputs.cache
+G:\My_Project\Temp_Show\Temp_Show2\obj\Release\net7.0-windows\Temp_Show2.dll
+G:\My_Project\Temp_Show\Temp_Show2\obj\Release\net7.0-windows\refint\Temp_Show2.dll
+G:\My_Project\Temp_Show\Temp_Show2\obj\Release\net7.0-windows\Temp_Show2.pdb
+G:\My_Project\Temp_Show\Temp_Show2\obj\Release\net7.0-windows\Temp_Show2.genruntimeconfig.cache
+G:\My_Project\Temp_Show\Temp_Show2\obj\Release\net7.0-windows\ref\Temp_Show2.dll
