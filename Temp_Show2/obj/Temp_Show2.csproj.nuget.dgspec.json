@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\My_Project\\Temp_Show\\Temp_Show2\\Temp_Show2.csproj": {}
+    "G:\\MyGitProject\\Temp_Show2\\Temp_Show2.csproj": {}
   },
   "projects": {
-    "G:\\My_Project\\Temp_Show\\Temp_Show2\\Temp_Show2.csproj": {
+    "G:\\MyGitProject\\Temp_Show2\\Temp_Show2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\My_Project\\Temp_Show\\Temp_Show2\\Temp_Show2.csproj",
+        "projectUniqueName": "G:\\MyGitProject\\Temp_Show2\\Temp_Show2.csproj",
         "projectName": "Temp_Show2",
-        "projectPath": "G:\\My_Project\\Temp_Show\\Temp_Show2\\Temp_Show2.csproj",
+        "projectPath": "G:\\MyGitProject\\Temp_Show2\\Temp_Show2.csproj",
         "packagesPath": "C:\\Users\\zww\\.nuget\\packages\\",
-        "outputPath": "G:\\My_Project\\Temp_Show\\Temp_Show2\\obj\\",
+        "outputPath": "G:\\MyGitProject\\Temp_Show2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
